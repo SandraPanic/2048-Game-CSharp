@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Igrica2048", "Igrica2048\Igrica2048.csproj", "{EC955246-4C68-4B1F-B056-71C15E231EE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC955246-4C68-4B1F-B056-71C15E231EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC955246-4C68-4B1F-B056-71C15E231EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC955246-4C68-4B1F-B056-71C15E231EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC955246-4C68-4B1F-B056-71C15E231EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67FBC2E6-AD25-4B69-8DFA-E49C1ED53E4E}
+	EndGlobalSection
+EndGlobal
